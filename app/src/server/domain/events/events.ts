@@ -1,0 +1,13 @@
+export const MessageThreadCreatedType = "MessageThreadCreated";
+export const MessageRespondedType = "MessageResponded";
+export const MessageOpenedType = "MessageOpened";
+export const MessageRemovedType = "MessageRemoved";
+export const ResponseReservedForAdminType = "ResponseReservedForAdmin";
+export const StatisticsAddedType = "StatisticsAdded";
+export const QuestionEditedType = "QuestionEdited";
+export const QuestionApprovedType = "QuestionApproved";
+export const ReservedToLocationType = "ReservedToLocation";
+export const ReservationRemovedType = "ReservationRemoved";
+export const RespondedToMessageType = "MessageResponded";
+export const MessageThreadContinuedType = "MessageThreadContinued";
+export const ResponseApprovedType = "ResponseApproved";

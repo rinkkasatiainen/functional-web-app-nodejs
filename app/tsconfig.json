@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "module": "commonjs",
+//    "esModuleInterop": true,
+    "target": "es5",
+    "lib": ["dom", "es6"],
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "outDir": "./dist/",
+    "rootDir": "./src/",
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "node_modules/*",
+        "src/server/adapter/types/*",
+        "src/server/domain/types/*",
+        "src/server/web/types/*",
+        "src/server/types/*"
+      ]
+    }
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+//  , "**/*.spec.ts"
+  ]
+}

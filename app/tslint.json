@@ -1,0 +1,21 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-no-unused-expression-chai",
+        "tslint:recommended",
+        "tslint-eslint-rules"
+    ],
+    "jsRules": {},
+    "rules": {
+        "arrow-parens": false,
+        "interface-name": false,
+        "no-any": true,
+        "no-constant-condition": true,
+        "no-unused-expression": false,
+        "no-unused-expression-chai": true,
+        "no-default-export": true
+    },
+    "rulesDirectory": [
+        "tslint-no-unused-expression-chai"
+    ]
+}
