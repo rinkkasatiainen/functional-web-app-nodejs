@@ -35,7 +35,7 @@
     "fluture": "^10.3.1",
     "fluture-sanctuary-types": "^2.2.2",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-fetch": "^2.6.0",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
