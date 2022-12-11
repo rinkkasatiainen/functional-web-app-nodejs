@@ -30,7 +30,7 @@
     "connect-pg-simple": "^6.0.1",
     "dotenv": "^7.0.0",
     "es6-promisify": "^6.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^5.3.1",
     "fluture": "^10.3.1",
     "fluture-sanctuary-types": "^2.2.2",
